@@ -1,0 +1,19 @@
+The most serious nuclear accident in history took place on 26 April 1986 at the Chernobyl nuclear power plant 
+in Ukraine, then part of the Soviet Union. It remains the only nuclear accident in the history of 
+commercial nuclear power to have caused fatalities from radiation. A combination of reactor design flaws and
+a poor safety culture led to a failed safety test, triggering two explosions and a fire that burned for over a 
+week, releasing a large amount of radioactive material into the environment.
+
+Two workers died as a direct result of the explosions. A further 28 emergency personnel and plant workers 
+later died from acute radiation syndrome (commonly known as radiation sickness). The accident also caused 
+approximately 5,000 cases of thyroid cancer, of which 15 have proven fatal; many of these cases could have been 
+prevented by restricting the consumption of contaminated foodstuffs such as milk. Follow-up studies have 
+found no increase in birth defects or hereditary effects, and no measurable rise in solid 
+cancers beyond thyroid cancer.
+
+Clean-up of the site and surrounding areas has continued ever since. A concrete shelter was built quickly 
+after the accident to contain further releases of radioactive material. This structure was always intended 
+as temporary and was eventually replaced by the New Safe Confinement, completed in July 2019.
+
+The plant's three remaining reactors continued operating after the accident, with the last one shutting down 
+in 2000.

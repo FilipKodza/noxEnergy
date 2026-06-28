@@ -1,0 +1,248 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --tamnozuta:#E0AE46;
+    --roman:'Courier New', Courier, monospace ;
+    --stan:'Trebuchet MS', Arial, sans-serif;
+}
+
+
+header{
+    background-color: var(--tamnozuta);    
+    width: 100%;
+    height: 9vh;
+    display: flex;
+    align-items: center;
+}
+
+header h2{
+    font-family:'Courier New', Courier, monospace ;
+    font-weight: 850; 
+    font-size:5em;
+    margin-left: 3%;
+}
+
+header ul li a{
+    color: inherit;
+    text-decoration: none;
+}
+
+header ul{
+    display: flex;
+    margin-left: auto;
+    list-style-type: none;
+    height: 100%;
+}
+
+header ul li {
+    display: flex;
+    font-weight: 700;
+    align-items: center;
+    padding: 0 20px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-size: 2em;
+    height: 100%;
+    transition: 0.5s ease;
+}
+
+header ul li:hover{
+    color: var(--tamnozuta);
+    background-color: black;
+}
+
+#active{
+    color: var(--tamnozuta);
+    background-color: black;
+}
+
+body{
+    background-color: black;
+    /*color: white;*/
+}
+
+.hero{
+    height: 100vh;
+
+    background-image: url("Slike/pozadina3.png");
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: relative;
+}
+
+.hero h1{
+    font-size: 6rem;
+    color: white;
+    text-align: center;
+    z-index: 2;
+    text-shadow:2px 2px 5px black;
+}
+
+.hero::after{
+    content: "";
+
+    position: absolute;
+
+    left: 0;
+    bottom: 0;
+
+    width: 100%;
+    height: 300px;
+
+    background: linear-gradient(
+        transparent,
+        rgba(0,0,0,0.4),
+        rgba(0,0,0,0.8),
+        black
+    );
+}
+
+.naslov2 h3{
+    margin-top: 5%;
+    text-align: center;
+    color:white;
+    font-size: 5em;
+    font-family: var(--stan);
+    font-weight: bold;
+}
+
+.Standard{
+    background-color: var(--tamnozuta);
+    width: 75%;
+    height: 20%;
+    align-items: center;
+    margin: 0 auto;
+    padding: 2%;
+    margin-top: 5%;
+}
+
+.Standard p{
+    font-size: 2em;
+    font-family: var(--stan);
+    font-weight: 300;
+}
+
+.Standard .one{
+    font-weight: bold;
+}
+
+
+.orSources {
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+    width: 90%;
+    display: flex;
+    align-items: stretch;
+    margin: 5% auto;
+}
+
+.coal,
+.oil,
+.gas {
+    font-family:var(--stan) ;
+    font-weight: 200;
+    font-size: 1.2em;
+    background-color:var(--tamnozuta);
+    color: black;
+    padding: 25px;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+}
+
+.coal h3, .oil h3, .gas h3{
+    font-size: 1.4em;
+}
+
+.coal .icon,
+.oil .icon,
+.gas .icon {
+    width: 5em;
+    height: 5em;
+    margin-top: auto;
+    align-self: center;
+    object-fit: contain;
+    padding-top: 20px;
+}
+
+.decarbonization{
+    padding: 2%;
+    width: 75%;
+    background-color: var(--tamnozuta);
+    height: 25%;
+    margin: 5% auto;
+}
+
+.decarbonization p{
+    font-size: 2em;
+    font-family: var(--stan);
+    font-weight: 300;
+}
+
+footer {
+    background-color: var(--tamnozuta);
+    margin-top: 5%;
+    padding:25px;
+    text-align: center;
+}
+
+footer p {
+    color: Black;
+    font-family: var(--stan);
+    font-size: 1rem;
+}
+
+.reveal {
+    opacity: 0;
+    transform: translateY(80px);
+    transition: all 0.8s ease;
+}
+
+.reveal.active {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.coal {
+    transition-delay: 0s;
+}
+
+.oil {
+    transition-delay: 0.2s;
+}
+
+.gas {
+    transition-delay: 0.4s;
+}
+
+@view-transition {
+    navigation: auto;
+}
+
+header {
+    view-transition-name: site-header;
+}
+
+::view-transition-old(site-header),
+::view-transition-new(site-header) {
+    animation: none;
+}
+
+::view-transition-old(root) {
+    animation: 480ms ease-in-out both slide-out-right;
+}
+
+::view-transition-new(root) {
+    animation: 480ms ease-in-out both slide-in-left;
+}
+
+@keyframes slide-out-right { to { transform: translateX(100%); } }
+@keyframes slide-in-left { from { transform: translateX(-100%); } }

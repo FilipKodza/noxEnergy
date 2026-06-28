@@ -1,0 +1,40 @@
+MINING - A significant proportion of uranium is extracted through conventional mining methods: 
+removing mineralized rock (ore) from the ground, breaking it up, and treating it to extract the minerals being sought. 
+However, nearly 60% of the world's uranium is now mined using in-situ leaching, a method that avoids major 
+ground disturbance. Water mixed with oxygen, or an alkali, acid, or other oxidizing solution, is circulated 
+through the uranium ore to dissolve and extract the uranium. The resulting solution is pumped to the surface, 
+then separated, filtered, and dried to produce uranium oxide concentrate, commonly known as "yellowcake."
+
+PROCESSING - Most nuclear reactors use the uranium-235 isotope as fuel, but this isotope makes up
+only about 0.7% of natural uranium. To make it usable as fuel, the concentration of uranium-235 must be 
+increased through a process called enrichment. The uranium is first converted into a volatile compound, uranium hexafluoride, 
+then heated until it becomes a gas. In this gaseous form, it is spun at very high speeds inside tall,
+fast-rotating machines called centrifuges, which separate the lighter uranium-235 from the heavier uranium-238, 
+increasing the proportion of uranium-235.
+
+FUEL FABRICATION - The enriched uranium is sent to a fuel fabrication plant, where it is converted into 
+uranium dioxide powder. This powder is pressed into small cylindrical pellets and heated to form a hard ceramic material.
+The pellets are then inserted into thin tubes called fuel rods, which are grouped together into 
+fuel assemblies.
+
+POWER GENERATION - Fuel assemblies are loaded into the reactor core, where they undergo a nuclear fission 
+chain reaction that releases heat. This heat boils water into high-pressure steam, which turns a turbine to 
+generate electricity. A single fuel assembly, usually several metres long, can remain in a reactor for years, 
+generating large amounts of electricity.
+
+STORAGE, RECYCLING & DISPOSAL - Used fuel is highly radioactive and generates significant heat, so it must 
+first be stored underwater to cool down. It can then either remain in water 
+("wet storage") or be moved into sealed containers kept in air-cooled buildings or on outdoor storage pads ("dry storage"). Allowing the 
+fuel to cool and lose some radioactivity makes later recycling or disposal easier.
+
+RECYCLING – Used nuclear fuel can be recycled to recover valuable materials such as uranium and plutonium. 
+Before recycling, the fuel is stored for several years to allow its heat and radioactivity to decrease. 
+Specialized facilities then separate reusable materials from waste, allowing them to be used in 
+the production of new nuclear fuel. Through this process, around 96% of the material in used fuel can be 
+recovered, while only a small portion remains as waste requiring long-term storage. Recycling helps 
+reduce the volume of nuclear waste and makes better use of existing fuel resources.
+
+These storage methods are intended to be temporary. In the long term, countries generally choose between 
+two approaches: recycling used fuel or disposing of it directly. The choice depends on each country's political, 
+economic, and technological priorities. Today, nearly 5% of the world's new nuclear fuel is manufactured 
+from plutonium recovered from used fuel, combined with depleted uranium, to produce mixed-oxide fuel (MOX).

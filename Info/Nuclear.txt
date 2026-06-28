@@ -1,0 +1,79 @@
+Nuclear power plants generate electricity using the heat produced by splitting atoms to create steam, which 
+drives a turbine. No greenhouse gases are produced during the fission process itself, and only very small 
+amounts are produced across the entire nuclear life-cycle. In 2018, nuclear power generated 10.5% of the
+world's electricity.
+
+Like fossil-fuelled power plants, nuclear plants are highly reliable and can run for many months without
+interruption, providing large amounts of electricity regardless of time of day, weather, or season. 
+Most nuclear power plants can operate for at least 60 years, which contributes to making nuclear electricity among
+ the most affordable forms of generation over the long term.
+
+Nuclear fuel can power a reactor for several years due to the immense amount of energy contained in uranium: 
+one kilogram of uranium produces roughly the same amount of energy as one tonne of coal. As a result,
+nuclear power generates a correspondingly small amount of waste. On average, a reactor supplying one person's 
+electricity needs for a year produces about 500 grams of waste, small enough to fit inside a soda can.
+Of that, only 5 grams is used nuclear fuel, roughly the equivalent of a sheet of paper. Several management
+strategies exist for used fuel, including direct disposal or recycling it in reactors to generate further 
+low-carbon electricity.
+
+Safety record
+
+There have been only two major accidents in the history of civilian nuclear power where a large amount of 
+radioactive material was released: Chernobyl (1986) and Fukushima Daiichi (2011). Their impact has been 
+far less severe than commonly believed. Using a death toll estimate of 433 for Chernobyl and 2,314 for Fukushima,
+nuclear power's death rate per unit of electricity generated is comparable to that of solar and wind, 
+and far below that of fossil fuels.
+
+Studies, including those conducted by the World Health Organisation, have concluded that the radiation-related 
+health effects of these accidents were very small. The main harm caused by nuclear accidents has come 
+not from radiation exposure itself, but from the psychological and socio-economic consequences of evacuation, 
+fear, and misconceptions about radiation, effects that could largely have been avoided.
+
+Comparing energy sources
+
+No energy source is entirely free of risk. Energy production can affect human health and the environment 
+in three main ways: air pollution, accidents (in mining, extraction, transport, construction, or maintenance), 
+and greenhouse gas emissions. Fossil fuels rank worst on all three counts, while nuclear and renewable 
+sources rank consistently low.
+
+To compare sources fairly, deaths are measured per terawatt-hour (TWh) of electricity generated, roughly
+the annual consumption of 150,000 EU citizens, accounting for deaths from both air pollution and supply-chain 
+accidents.
+
+Estimated death rates per TWh:
+- Coal: 25 deaths
+- Oil: 18 deaths
+- Gas: 3 deaths
+- Hydropower: 1 death (this average is dominated by a single catastrophic event, the 1975 Banqiao Dam failure
+  in China, which killed an estimated 171,000 people; excluding it, hydropower's death rate falls to 
+  about 0.04 deaths per TWh)
+- Wind: 0.04 deaths (roughly one death every 25 years for a town consuming 1 TWh annually)
+- Nuclear: 0.03 deaths (roughly one death every 33 years for the same town)
+- Solar: 0.02 deaths (roughly one death every 50 years for the same town)
+
+Fossil fuels remain the deadliest energy source overall, primarily due to air pollution, which causes an
+estimated 8.7 million premature deaths every year. By contrast, nuclear energy results in 99.9% fewer deaths 
+than brown coal, 99.8% fewer than coal, 99.7% fewer than oil, and 97.6% fewer than gas. Wind and solar 
+are comparably safe. The minor differences among nuclear, wind, and solar are not statistically meaningful, 
+given the uncertainty in these estimates; what matters is that all three are dramatically safer than fossil fuels.
+
+It's also worth noting that fossil fuel death-rate estimates are likely conservative, since they are typically 
+based on European power plants with strong pollution controls. More recent global research on air pollution 
+suggests real-world health impacts, especially in regions with weaker pollution controls or power plants 
+located closer to population centers, may be considerably higher than these figures indicate.
+
+Clean and safe go together
+
+There is no trade-off between the safest energy sources in the short term and the least damaging in the 
+long term, they are the same sources. Coal is both the deadliest and the dirtiest, emitting over a hundred 
+times more greenhouse gases per unit of electricity than nuclear. Oil and gas are also significantly worse 
+than nuclear and renewables, though less so than coal.
+
+Fossil fuels still account for around 60% of the global electricity mix. Transitioning away from them toward 
+nuclear and renewable energy would reduce both deaths from accidents and air pollution and greenhouse gas 
+emissions, delivering health benefits today alongside climate benefits for future generations.
+
+Public perception of nuclear energy is heavily shaped by two highly visible accidents, Chernobyl and Fukushima, 
+despite the fact that, measured against the millions who die from fossil fuel pollution each year, 
+the actual death toll from nuclear power has been very low. Since nuclear power is also a major source of low-carbon electricity, 
+it can play a key role in a sustainable energy mix alongside renewables.
